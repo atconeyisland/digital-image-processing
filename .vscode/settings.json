@@ -1,0 +1,5 @@
+{
+    "terminal.integrated.env.windows": {
+        "PATH": "C:\\Users\\mamat\\AppData\\Local\\Programs\\Python\\Python313;C:\\Users\\mamat\\AppData\\Local\\Programs\\Python\\Python313\\Scripts;${env:PATH}"
+    }
+}
